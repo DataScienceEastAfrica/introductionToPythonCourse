@@ -1,6 +1,8 @@
 # IntroductionToPythonCourse
 
-This course has borrowed from other resources and tries to make your learning as smoooth as possible: Course outline
+This course has borrowed from other resources and tries to make your learning as smoooth as possible: 
+
+Course outline
 
 1. Getting started
 2. Syntax
