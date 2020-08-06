@@ -5,6 +5,7 @@ This course has borrowed from other resources and tries to make your learning as
 Course outline
 
 Introduction
+
 a) Getting started
 b) Syntax
 c) Comments
